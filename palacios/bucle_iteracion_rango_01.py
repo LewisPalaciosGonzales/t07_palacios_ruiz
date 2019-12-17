@@ -7,3 +7,5 @@ for i   in range(101):
     #finif
 #finfor
 print("Suma",s)
+#finfor
+print("programa terminado")
