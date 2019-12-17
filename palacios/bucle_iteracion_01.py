@@ -1,4 +1,5 @@
 #Ejercicio iteracion 01
+#Notas de estudiantes
 import os
 puntaje=os.sys.argv[1]
 nota=os.sys.argv[2]

@@ -1,4 +1,5 @@
 #Ejercicio iteracion 04
+#Estado civil
 import os
 sociedad=os.sys.argv[1]
 estado_civil=os.sys.argv[2]

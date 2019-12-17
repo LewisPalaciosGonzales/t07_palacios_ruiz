@@ -1,4 +1,5 @@
 #Ejercicio iteracion 05
+#Marca de Laptop
 import os
 marcas=os.sys.argv[1]
 laptop=os.sys.argv[2]

@@ -1,4 +1,5 @@
 #Ejercicio iteracion 02
+#Operadora telefonicas
 import os
 empresa_telefonica=os.sys.argv[1]
 operador=os.sys.argv[2]

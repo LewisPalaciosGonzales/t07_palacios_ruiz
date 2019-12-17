@@ -1,4 +1,5 @@
 #Ejercicio iteracion 03
+#Redes sociales
 import os
 internet=os.sys.argv[1]
 red_social=os.sys.argv[2]
